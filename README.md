@@ -13,3 +13,5 @@ To download and use, follow these steps:
 6.	Depending on your windows security settings, a blue windows popup may appear. You should see a “More Info” button on this popup somewhere in the center. Click on that, and then click “Run Anyways”.
 7.	The application should now open and there should now be a desktop shortcut for this application to open in the future.
 8.	I suggest clicking on the info button of the application to learn more. But otherwise, you should be good to go. Mayb try picking a series like “Fate Zero (FZ)” and click on Search by series to test it out!
+
+NOTE only the deployed version contains the database file due to github size constraints. If you clone your own version of thise code down, you will need to add the database file to it separately.
