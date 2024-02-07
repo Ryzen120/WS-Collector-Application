@@ -1,0 +1,57 @@
+C:\GIT Repo\WSCollector\WS Collector\bin\Release\x86\sqlite3.dll
+C:\GIT Repo\WSCollector\WS Collector\bin\Release\x64\sqlite3.dll
+C:\GIT Repo\WSCollector\WS Collector\bin\Release\WS Collector.exe.config
+C:\GIT Repo\WSCollector\WS Collector\bin\Release\WS Collector.exe.manifest
+C:\GIT Repo\WSCollector\WS Collector\bin\Release\WS Collector.application
+C:\GIT Repo\WSCollector\WS Collector\bin\Release\WS Collector.exe
+C:\GIT Repo\WSCollector\WS Collector\bin\Release\WS Collector.pdb
+C:\GIT Repo\WSCollector\WS Collector\bin\Release\BouncyCastle.Crypto.dll
+C:\GIT Repo\WSCollector\WS Collector\bin\Release\Google.Protobuf.dll
+C:\GIT Repo\WSCollector\WS Collector\bin\Release\K4os.Compression.LZ4.dll
+C:\GIT Repo\WSCollector\WS Collector\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\GIT Repo\WSCollector\WS Collector\bin\Release\K4os.Hash.xxHash.dll
+C:\GIT Repo\WSCollector\WS Collector\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\GIT Repo\WSCollector\WS Collector\bin\Release\Microsoft.Data.Sqlite.dll
+C:\GIT Repo\WSCollector\WS Collector\bin\Release\MySql.Data.dll
+C:\GIT Repo\WSCollector\WS Collector\bin\Release\SQLitePCLRaw.batteries_v2.dll
+C:\GIT Repo\WSCollector\WS Collector\bin\Release\SQLitePCLRaw.core.dll
+C:\GIT Repo\WSCollector\WS Collector\bin\Release\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\GIT Repo\WSCollector\WS Collector\bin\Release\System.Buffers.dll
+C:\GIT Repo\WSCollector\WS Collector\bin\Release\System.Configuration.ConfigurationManager.dll
+C:\GIT Repo\WSCollector\WS Collector\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\GIT Repo\WSCollector\WS Collector\bin\Release\System.IO.Pipelines.dll
+C:\GIT Repo\WSCollector\WS Collector\bin\Release\System.Memory.dll
+C:\GIT Repo\WSCollector\WS Collector\bin\Release\System.Numerics.Vectors.dll
+C:\GIT Repo\WSCollector\WS Collector\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\GIT Repo\WSCollector\WS Collector\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\GIT Repo\WSCollector\WS Collector\bin\Release\ZstdSharp.dll
+C:\GIT Repo\WSCollector\WS Collector\bin\Release\BouncyCastle.Crypto.xml
+C:\GIT Repo\WSCollector\WS Collector\bin\Release\Google.Protobuf.pdb
+C:\GIT Repo\WSCollector\WS Collector\bin\Release\Google.Protobuf.xml
+C:\GIT Repo\WSCollector\WS Collector\bin\Release\K4os.Compression.LZ4.xml
+C:\GIT Repo\WSCollector\WS Collector\bin\Release\K4os.Compression.LZ4.Streams.xml
+C:\GIT Repo\WSCollector\WS Collector\bin\Release\K4os.Hash.xxHash.xml
+C:\GIT Repo\WSCollector\WS Collector\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\GIT Repo\WSCollector\WS Collector\bin\Release\Microsoft.Data.Sqlite.xml
+C:\GIT Repo\WSCollector\WS Collector\bin\Release\MySql.Data.xml
+C:\GIT Repo\WSCollector\WS Collector\bin\Release\System.Buffers.xml
+C:\GIT Repo\WSCollector\WS Collector\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\GIT Repo\WSCollector\WS Collector\bin\Release\System.IO.Pipelines.xml
+C:\GIT Repo\WSCollector\WS Collector\bin\Release\System.Memory.xml
+C:\GIT Repo\WSCollector\WS Collector\bin\Release\System.Numerics.Vectors.xml
+C:\GIT Repo\WSCollector\WS Collector\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\GIT Repo\WSCollector\WS Collector\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\GIT Repo\WSCollector\WS Collector\obj\Release\WS Collector.csproj.AssemblyReference.cache
+C:\GIT Repo\WSCollector\WS Collector\obj\Release\WS_Collector.FormImagePreview.resources
+C:\GIT Repo\WSCollector\WS Collector\obj\Release\WS_Collector.WSCollector.resources
+C:\GIT Repo\WSCollector\WS Collector\obj\Release\WS_Collector.Properties.Resources.resources
+C:\GIT Repo\WSCollector\WS Collector\obj\Release\WS Collector.csproj.GenerateResource.cache
+C:\GIT Repo\WSCollector\WS Collector\obj\Release\WS Collector.csproj.CoreCompileInputs.cache
+C:\GIT Repo\WSCollector\WS Collector\obj\Release\WS Collector.TrustInfo.xml
+C:\GIT Repo\WSCollector\WS Collector\obj\Release\WS Collector.exe.manifest
+C:\GIT Repo\WSCollector\WS Collector\obj\Release\WS Collector.application
+C:\GIT Repo\WSCollector\WS Collector\obj\Release\WS Collector.csproj.CopyComplete
+C:\GIT Repo\WSCollector\WS Collector\obj\Release\WS Collector.exe
+C:\GIT Repo\WSCollector\WS Collector\obj\Release\WS Collector.pdb
+C:\GIT Repo\WSCollector\WS Collector\bin\Release\WSDBFull.db
+C:\GIT Repo\WSCollector\WS Collector\bin\Release\e_sqlite3.dll
